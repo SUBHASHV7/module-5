@@ -82,7 +82,7 @@ int main()
 ## RESULT
 Thus the program to print 'WELCOME' using malloc() and free() has been executed successfully
  
-.
+
 
 
 
@@ -149,7 +149,6 @@ To write a C Program to read and store the data of 3 employees and calculate the
 
 ## PROGRAM
 ```
-
 #include<stdio.h>
 struct employee
 {
@@ -230,8 +229,6 @@ Step 8: End the program.
 
 ## PROGRAM
 ```
-
-
 #include <stdio.h>
 
 struct student
